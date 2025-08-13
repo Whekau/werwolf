@@ -1,0 +1,2 @@
+
+The entity touches a person or object, kickstarting a reaction that dissolves stone and flesh with the fumes of a burning tire. Objects dissolve at a rate decided by the Storyteller, while living creatures resist with their Stamina + Resolve (Difficulty 3) or sustain Aggravated damage equal to the margin of failure.

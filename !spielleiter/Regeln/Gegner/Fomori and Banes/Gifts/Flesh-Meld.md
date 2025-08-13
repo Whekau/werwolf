@@ -1,0 +1,2 @@
+
+This power is available to fomori only. Once activated, it enables two (or more) fomori to merge their flesh in an unstable mass of limbs, exposed organs, and teeth. For every fomori entering the mass, the strongest member adds 2 medium Health levels and a dice bonus to their physical pools. Whether they can separate if they survive is up to the Storyteller.

@@ -1,0 +1,2 @@
+
+The entity tests either their Power or Mental Trait against the Composure + Intelligence of their target. If successful, they can search the mind of their victim for a specific memory and gain full knowledge of it. Any memories discovered by the entity are permanently erased from the hapless victim.

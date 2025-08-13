@@ -1,0 +1,2 @@
+
+This power is available to fomori only. The fomori’s flesh dissolves into a multitude of tiny, biting creatures, such as rodents, flies, spiders, or locusts. The size of the swarm ensures that unless using fire (or other suitable area affect attacks) no single attack can inflict more than 1 level of Health damage. Enemies caught in the swarm’s miasma take a two-dice penalty to all actions. The swarm may perform a collective Brawl attack causing + 1 Superficial damage. This represents small bites.

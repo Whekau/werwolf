@@ -1,0 +1,2 @@
+
+The Black Spiral Dancer creates an auditory illusion, such as a pair of voices or the footfalls of a half dozen people. So long as the Dancer remains hidden, few adversaries would suspect this deception.

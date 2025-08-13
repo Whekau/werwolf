@@ -1,0 +1,2 @@
+
+This power is available to fomori only. The fomor is able to travel to the Umbra simply by stepping sideways. While in the Umbra, it sustains a level of Aggravated Health damage every hour. If the fomor runs out of Health, its physical body is destroyed and the spirit encased within emerges intact.

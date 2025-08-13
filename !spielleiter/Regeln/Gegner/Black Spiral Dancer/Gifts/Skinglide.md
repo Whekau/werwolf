@@ -1,0 +1,2 @@
+
+The Black Spiral Dancer’s fingers begin to grow and skin joins their limbs into twisted wings which are usable for gliding away. Particularly cunning or strong Black Spiral Dancers can use their brute strength or take advantage of air currents to gain altitude as well.

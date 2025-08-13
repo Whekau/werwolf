@@ -1,0 +1,2 @@
+
+The Black Spiral Dancer consumes the flesh of a human. They gain a Specialty the victim possessed or other knowledge the victim possessed. A human is usually worth only two meals, one featuring the brain and one featuring the heart.

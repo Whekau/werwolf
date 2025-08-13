@@ -1,0 +1,2 @@
+
+Victims coming into close contact with the entity for at least a scene must succeed on a Stamina + Medicine or Occult test (Difficulty 3) or slowly become afflicted with a virulent plague. Anyone encountering these infected must succeed at the same test, but at Difficulty 2. Once Infected, victims must succeed at the same test each day or take 1 Aggravated Health damage. If they resist the pestilence for three days, the infection passes. The Bane can halt the disease at any time.

@@ -6,21 +6,35 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
+//afterBody: [
+//  Component.Comments({
+//    provider: 'giscus',
+//    options: {
+      // from data-repo
+//      repo: 'Whekau/werwolf',
+      // from data-repo-id
+//      repoId: 'R_kgDOM-bu_g',
+      // from data-category
+//      category: 'Announcements',
+      // from data-category-id
+//      categoryId: 'DIC_kwDOM-bu_s4CjmfG',
+//    }
+//  }),
+//],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+   // links: {
+     // GitHub: "https://github.com/jackyzha0/quartz",
+  //    "Discord Community": "https://discord.gg/cRFFHYye7t",
+  //  },
   }),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    Component.Breadcrumbs({
+	rootName: "Werwolf",
+	}),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -28,41 +42,32 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.Explorer({
+	title: "Inhaltsverzeichnis",
+	})),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+ //Component.Graph(),
+ //Component.DesktopOnly(Component.TableOfContents()),
+ Component.Backlinks(),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs({
+	rootName: "Werwolf",
+	}), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-    Component.Explorer(),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.Explorer({
+	title: "Inhaltsverzeichnis",
+	})),
   ],
   right: [],
 }

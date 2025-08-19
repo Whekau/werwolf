@@ -1,5 +1,5 @@
 
-Die Welt ist im Umbruch. Gaia, der Geist der Erde, ist schwer verletzt. Artensterben, Klimakatastrophen, soziale Ungerechtigkeit und Korruption durch Geister bedrohen das Gleichgewicht des Lebens.
+Die Welt ist im Umbruch. Gaia, der Geist der Erde, ist schwer verletzt. Artensterben, Klimakatastrophen und soziale Ungerechtigkeit bedrohen das Gleichgewicht des Lebens.
 
 Im Zentrum dieser Entwicklung stehen drei kosmologische Kräfte, das Triat:
 

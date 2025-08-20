@@ -2,7 +2,7 @@
 
 Wenn du etwas *Riskantes* oder *Ungewisses* tust, wirf
 * **+1W6** *standardmäßig*
-* **+1W6** wenn die Aktion von deinem *Beruf* abgedeckt wird (bzgl. Kampf siehe [[Werwolfformen]])
+* **+1W6** wenn die Aktion von deinem *Beruf* abgedeckt wird (siehe in welchen [[Werwolfformen]])
 * weitere Boni oder Mali gibt es abhängig von der derzeitigen [[Werwolfformen|Werwolfform]]
 
 Der *höchste* Wurf zeigt deinen Erfolgsgrad an. Ab einer *4* aufwärts gelingt die Probe.

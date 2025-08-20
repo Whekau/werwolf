@@ -44,6 +44,8 @@ title: Werwolf
 	- [[Olivia Goodman]]
 	- [[Jamison Fawkes]]
 * Regeln:
+	* [[Beruf]]
+	* [[Bonds]]
 	* [[Charakterbogen]]
 	* [[Gaben]]
 	* [[Regelwerk]]

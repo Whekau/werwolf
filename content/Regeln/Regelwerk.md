@@ -31,8 +31,8 @@ Zu Beginn des Spiels entscheidet sich jeder Spieler:
   
 ### Werte
 
-**Beruf:**
-Der Beruf des Charakters kann einen W6 zu einer Probe beisteuern, falls die Expertise des Berufs in Frage kommt. Berufe können im Kampf +1W6 geben, wenn sie zur Aktion passen, aber nur in [[Werwolfformen|Homid]]- oder [[Werwolfformen|Glabroform]].
+**[[Beruf]]:**
+Ein Beruf umfasst zwei Skills. Wenn diese Skills bei einer Probe helfen könnten wird ein W6 zu dieser Probe beigesteuert. Berufe können nur in der [[Werwolfformen|Homid]]- oder [[Werwolfformen|Glabroform]] einen W6 beisteuern.
 
 **[[Vorzeichen]]:**
 Das Vorzeichen wird durch die Mondphase bestimmt, in der sich der Charakter das erste Mal verwandelt hat.
@@ -46,7 +46,7 @@ Gaben wird dem Charakter durch einen Geist gewährt. Diese Gaben können in best
 **[[Riten]]:**
 Riten sind ein wichtiger Bestandteil der Garou, da sie sie miteinander verbinden. Sie verwenden Riten für fast alles, nicht nur für formelle Vorstellungszeremonien oder die Trauerfeier für einen Rudelkameraden, sondern auch, um vergangene Heldentaten zu erzählen oder sich gegenseitig zu züchtigen. Ein Ritus ist aufwendig und benötigt einen Ritusmeister, der den Ritus kennt, und weitere Teilnehmer. Ein Ritus kann unter Umständen mehrere Stunden dauern.
 
-**Bonds:**
+**[[Bonds]]:**
 Bonds sind Menschen, die dem Charakter nahestehen. Ein Charakter kann ein bis drei Bonds gleichzeitig besitzen.
 
 **Verletzung:**

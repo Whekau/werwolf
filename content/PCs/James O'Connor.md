@@ -6,5 +6,5 @@
 | [[Stamm]]:      | Children of Gaia                                 |
 | [[Gaben]]:      | - Wasp Talons<br>- Closing the Gap<br>- Blackout |
 | [[Riten]]:      | - The Winter Wolf                                |
-| Bonds:          | fehlt noch                                       |
+| Bonds:          | - [[Jeremy O'Connor]]<br>- [[Agatha O'Connor]]   |
 | [[Waffen]]:     | - großer Schraubenschlüssel                      |

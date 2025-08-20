@@ -21,9 +21,12 @@ title: Werwolf
 - NPCs:
 	* Menschen:
 		* Bonds:
+			* [[Agatha O'Connor]]
 			* [[Betsy Beckett]]
 			* [[Bodhi]]
 			* [[Edward Clinton]]
+			* [[Ellie Fawkes]]
+			* [[Jeremy O'Connor]]
 			* [[Tara]]
 	- Werwölfe:
 		- Children of Gaia:
@@ -39,7 +42,7 @@ title: Werwolf
 	- [[Imogen Bennett]]
 	- [[James O'Connor]]
 	- [[Olivia Goodman]]
-	- [[Platzhalter]]
+	- [[Jamison Fawkes]]
 * Regeln:
 	* [[Charakterbogen]]
 	* [[Gaben]]

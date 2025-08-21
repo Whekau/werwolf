@@ -27,6 +27,7 @@ title: Werwolf
 			* [[Edward Clinton]]
 			* [[Ellie Fawkes]]
 			* [[Jeremy O'Connor]]
+			* [[Platzhalter]]
 			* [[Tara]]
 	- Werwölfe:
 		- Children of Gaia:

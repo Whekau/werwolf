@@ -1,3 +1,5 @@
+Beispiele für verschiedene Bond-Typen:
+
 ### Familial Bonds
 1. A single parent or guardian
 2. Member of a parental couple

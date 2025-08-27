@@ -10,7 +10,7 @@ Der *höchste* Wurf zeigt deinen Erfolgsgrad an. Ab einer *4* aufwärts gelingt 
 
 ### Kampf-Initiative
 
-Zu Beginn jeder Runde entscheidet jeder Spieler:
+Zu Beginn des Kampfes entscheidet jeder Spieler:
 - **Früh handeln:** Du agierst vor den Gegnern, kannst aber später **nicht mehr verteidigen**.
     
 - **Spät handeln:** Du agierst nach den Gegnern, kannst aber bei einem Angriff auf dich **verteidigen.** Wer sich für spätes Handeln entscheidet, kann in dieser Runde **entweder verteidigen oder eine Aktion ausführen** – nicht beides. Wird verteidigt, verfällt die eigene Aktion.
@@ -21,7 +21,7 @@ Der Spieler würfelt ebenfalls. Wer das höchste Ergebnis erzielt, gewinnt. Bei 
 
 ### Glücksmünzen
 
-Zu Beginn des Spiels entscheidet sich jeder Spieler:
+Zu Beginn eines Szenarios entscheidet sich jeder Spieler:
 - **Entweder:** Du startest mit **2 Wut**
     
 - **Oder:** Du startest mit **1 Wut** und erhältst dafür **1 Glücksmünze**
@@ -53,7 +53,13 @@ Bonds sind Menschen, die dem Charakter nahestehen. Ein Charakter kann ein bis dr
 Dein Verletzungswert steht für deine körperliche Versehrtheit. Es gibt drei Verletzungsgrade: leicht, mittel und schwer. Wenn du Schaden erleidest streiche, abhängig vom Verletzungsgrad, ein Kästchen durch. Wenn das zweite Kästchen desselben Verletzungsgrades gestrichen wird, entferne beide und streiche ein Kästchen des nächst höheren Grades. Wenn das zweite Kästchen vom Verletzungsgrad „schwer“ gestrichen wird, liegt der Charakter im Sterben und ist nicht mehr spielbar. Erhält er nicht sofort Hilfe, stirbt er dauerhaft. In bestimmten [[Werwolfformen]] können Verletzungen geheilt werden. Siehe Wut.
 
 **Wut:**
-Wut ist die Hauptressource eines Werwolfes. Der Charakter erhält immer einen Punkt Wut, wenn er psychischen oder physischen Schaden erleidet (einmal pro Kampf) oder wenn er den Mond anheult (einmal pro Nacht). Nach einem erholsamen Schlaf reduziert sich die Wut um eins (Minimum eine Wut übrig). Wut kann in bestimmten [[Werwolfformen]] benutzt werden um [[Gaben]] zu nutzen oder sich zu heilen. Jede Nutzung/Heilung verringert die Wut um eins. Um sich in die [[Werwolfformen]] [[Werwolfformen|Glabro]], [[Werwolfformen|Crinos]] oder [[Werwolfformen|Hispo]] zu verwandeln, werden abhängig von der [[Werwolfformen|Form]] Wutwürfe durchgeführt. Für einen Wutwurf wird ein W6 gewürfelt und Ziel ist es den aktuellen Wutwert genau zu treffen oder ihn zu unterwürfeln. Wenn die Wut des Charakters den Wert 6 erreicht hat, verliert der Charakter temporär die Kontrolle und verwandelt sich ungewollt in die [[Werwolfformen|Crinosform]]. Er greift mit seinen [[Waffen|Klauen]] Feinde in der Nähe an, bis alle ausgeschaltet sind und verwandelt sich danach zurück in die [[Werwolfformen|Homid-Form]] und die Wut sinkt auf null. In dieser Rage können weder [[Gaben]] noch Heilung genutzt werden. Wenn der Charakter zwei schwere Verletzungen erlitten hat kämpft er trotzdem weiter und bricht erst nach der Rückverwandlung zusammen (Erleidet der Charakter nach den zwei schweren Verletzungen weiteren Schaden, bricht er sofort zusammen, verwandelt sich zurück in die [[Werwolfformen|Homid-Form]], und die Wut sinkt auf null.). Wenn die Wut den Wert null erreicht schlagen alle Versuche, sich zu verwandeln, automatisch fehl und der Charakter verbleibt in der [[Werwolfformen|Homid-Form]].
+Wut ist die Hauptressource eines Werwolfes. Der Charakter erhält immer einen Punkt Wut, wenn er psychischen oder physischen Schaden erleidet (einmal pro Kampf) oder wenn er den Mond anheult (einmal pro Nacht). Nach einem erholsamen Schlaf reduziert sich die Wut um eins (Minimum eine Wut übrig).
+
+Wut kann in bestimmten [[Werwolfformen]] benutzt werden um [[Gaben]] zu nutzen oder sich zu heilen. Jede Nutzung/Heilung verringert die Wut um eins.
+
+Um sich in zeitkritischen Situationen (wie zum Beispiel einem Kampf) in die [[Werwolfformen]] [[Werwolfformen|Glabro]], [[Werwolfformen|Crinos]] oder [[Werwolfformen|Hispo]] zu verwandeln, werden abhängig von der [[Werwolfformen|Form]] eine bestimmte Anzahl an Wutwürfen durchgeführt. Für einen Wutwurf wird ein W6 gewürfelt und Ziel ist es den aktuellen Wutwert genau zu treffen oder ihn zu unterwürfeln.
+
+Wenn die Wut des Charakters den Wert 6 erreicht hat, verliert der Charakter temporär die Kontrolle und verwandelt sich ungewollt in die [[Werwolfformen|Crinosform]]. Er greift mit seinen [[Waffen|Klauen]] Feinde in der Nähe an, bis alle ausgeschaltet sind und verwandelt sich danach zurück in die [[Werwolfformen|Homid-Form]] und die Wut sinkt auf null. In dieser Rage können weder [[Gaben]] noch Heilung genutzt werden. Wenn der Charakter zwei schwere Verletzungen erlitten hat kämpft er trotzdem weiter und bricht erst nach der Rückverwandlung zusammen (Erleidet der Charakter nach den zwei schweren Verletzungen weiteren Schaden, bricht er sofort zusammen, verwandelt sich zurück in die [[Werwolfformen|Homid-Form]], und die Wut sinkt auf null.). Wenn die Wut den Wert null erreicht schlagen alle Versuche, sich zu verwandeln, automatisch fehl und der Charakter verbleibt in der [[Werwolfformen|Homid-Form]].
 
 
 

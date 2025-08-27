@@ -1,5 +1,5 @@
 
 * Freilichtmuseum
-* Staff: [[Imogen Bennett]], [[Tara]], [[Bodhi]]
+* Staff: [[Imogen Bennett]], [[Tara]], [[Bodhi †]]
 * [[Naperville|Map]]
 * [[Downtown|Map-Downtown]]

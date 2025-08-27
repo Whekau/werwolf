@@ -23,7 +23,7 @@ title: Werwolf
 		* Bonds:
 			* [[Agatha O'Connor]]
 			* [[Betsy Beckett]]
-			* [[Bodhi]]
+			* [[Bodhi †]]
 			* [[Edward Clinton]]
 			* [[Ellie Fawkes]]
 			* [[Jeremy O'Connor]]
@@ -55,3 +55,5 @@ title: Werwolf
 	* [[Vorzeichen]]
 	* [[Waffen]]
 	* [[Werwolfformen]]
+* Session-Notes:
+	* [[Session 1 - No Matter How Small]]

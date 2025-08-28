@@ -1,4 +1,4 @@
-![[charakterbogen.jpg]]
+![[content/charakterbogen.jpg]]
 
 
 

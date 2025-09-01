@@ -9,6 +9,7 @@ title: Werwolf
 		* [[Honey-Jam Cafe]]
 		* [[Naper Settlement]]
 	- Werwolf Standorte:
+		- [[Alte White Howlers Caern]]
 		- [[Hangry Johnny's Hot Chicken]]
 		- [[Hensley Towing]]
 		- [[Tipsy Cow]]

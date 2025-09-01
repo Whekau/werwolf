@@ -8,7 +8,7 @@ Ablauf:
 	* James Bruder Jeremy bricht bei ihm ein, auf der Suche nach Geld um seine Drogensucht zu finanzieren. Er ist aus der letzten Klinik geflogen. James gibt ihm 150$ und verlangt, dass er sich davon ein Motel bezahlt. Er will mit ihm zusammen eine neue Klinik finden und hat ihm verboten von dem Geld neuen Stoff zu kaufen. Am Wochenende kommt James Mutter Agatha zu Besuch.
 	* Jamison geht einkaufen und versorgt seine Ratte Hokus Pokus.
 	* Imogen vermisst ihren Arbeitskollegen Bodhi seit 2 Wochen auf der Arbeit und bekommt ihn nicht mehr erreicht. Sie schreibt dem Rudel, dass sie sich heute in der Tipsy Cow treffen will um danach gemeinsam nach Bodhi zu sehen.
-* Das Rudel fährt zu Bodhis Wohnung und finden diese heruntergekommen vor. Bodhis Nacktkatze Quintus ist unterernährt und die Wohnung macht den Anschein, als ob seit ca. einer Woche niemand mehr hier war. In einem Wandkalender findet das Rudel einen Hinweis: Bodhi ist seit ein paar Wochen Mitglied in einem Gartenclub der in der Springbrook Prairie an der Walderhaltung arbeitet.
+* Das Rudel fährt zu Bodhis Wohnung und finden diese heruntergekommen vor. Bodhis Nacktkatze Quintus ist unterernährt und die Wohnung macht den Anschein, als ob seit ca. einer Woche niemand mehr hier war. An einem Wandkalender findet das Rudel einen Hinweis: Bodhi ist seit ein paar Wochen Mitglied in einem Gartenclub der in der Springbrook Prairie an der Walderhaltung arbeitet.
 * Auf der Website des Gartenclubs findet das Rudel folgende Mitglieder:
 	* Rickard Muller (Präsident des Clubs)
 	* Jacqlyn Bates
@@ -16,7 +16,7 @@ Ablauf:
 	* Aisha Crider
 	* Bodhi Sharma
 	* Hanna Harcorte
-* Das Rudel fährt zu der Adresse des Gartenclubs. Sie finden Bündel alter Äste und Mülltüten zur Abholung bereit vor und gehen tiefer in den Wald. Die Anordnung der Äste und Mülltüten wird symmetrischer und schließlich stoßen sie auf eine Lichtung. Auf der Lichtung sind 4 Erdhügel in um einen Holzstuhl in der Mitte verteilt. Neben dem Holzstuhl steht eine Schale, in der Hundeknochen verbrannt wurden. Die Asche wurde in Form von Linien ausgehend von jedem Hügel in Richtung des Stuhls gezogen. Das Rudel hebt die Erdhügel aus und findet 4 Leichen:
+* Das Rudel fährt zu der Adresse des Gartenclubs. Sie finden Bündel alter Äste und Mülltüten zur Abholung bereit vor und gehen tiefer in den Wald. Die Anordnung der Äste und Mülltüten wird symmetrischer und schließlich stoßen sie auf eine Lichtung. Auf der Lichtung sind 4 Erdhügel um einen Holzstuhl in der Mitte verteilt. Neben dem Holzstuhl steht eine Schale, in der Hundeknochen verbrannt wurden. Die Asche wurde in Form von Linien ausgehend von jedem Hügel in Richtung des Stuhls gezogen. Das Rudel hebt die Erdhügel aus und findet 4 Leichen:
 	* Jacqlyn Bates
 	* Mitchell Ericksson
 	* Aisha Crider

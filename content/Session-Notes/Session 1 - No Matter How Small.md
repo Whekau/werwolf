@@ -21,7 +21,7 @@ Ablauf:
 	* Mitchell Ericksson
 	* Aisha Crider
 	* Bodhi Sharma
-* Jeder Leiche fehlt ein Körperteil. Außerdem stellen sie fest, dass insgesamt 6 Personen vor Ort waren und nur eine Person den Platz verlassen hat. Außerdem führen Pfotenabdrücke eines Wolfes von dem Ort.
+* Jeder Leiche fehlt ein Körperteil. Die Todesursache scheint aber eine Vergiftung gewesen zu sein. Außerdem stellen sie fest, dass insgesamt 6 Personen vor Ort waren und nur eine Person den Platz verlassen hat. Außerdem führen Pfotenabdrücke eines Wolfes von dem Ort.
 * Desweiteren gräbt das Rudel alte verwitterte Steine auf dem Ritualplatz aus, welche Garou-Glyphen tragen:
 * ![[glyph.jpg]]
 * Die Glyphe steht für den Stamm der White Howlers (welche nicht mehr existieren und heutzutage als Black Spiral Dancers bekannt sind)

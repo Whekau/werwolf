@@ -30,6 +30,7 @@ title: Werwolf
 			* [[Jeremy O'Connor]]
 			* [[Platzhalter]]
 			* [[Tara]]
+	* [[Rickard Muller]]
 	- Werwölfe:
 		- Children of Gaia:
 			- [[Frank Carter]]
@@ -38,6 +39,7 @@ title: Werwolf
 			- [[Julia Estes]]
 			- [[Megan Tawney]]
 			- [[Sofia Torres]]
+	* [[Hanna Harcorte]]
 - PCs:
 	- Relationships:
 		- [[PC Relationship Map]]
@@ -58,3 +60,4 @@ title: Werwolf
 	* [[Werwolfformen]]
 * Session-Notes:
 	* [[Session 1 - No Matter How Small]]
+	* [[Session 2 - No Matter How Small]]

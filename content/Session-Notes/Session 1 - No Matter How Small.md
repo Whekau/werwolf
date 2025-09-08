@@ -2,7 +2,7 @@ PCs:
 * [[Imogen Bennett]]
 * [[James O'Connor]]
 * [[Jamison Fawkes]]
-
+---
 Ablauf:
 * PC-Intro-Szenen:
 	* James Bruder Jeremy bricht bei ihm ein, auf der Suche nach Geld um seine Drogensucht zu finanzieren. Er ist aus der letzten Klinik geflogen. James gibt ihm 150$ und verlangt, dass er sich davon ein Motel bezahlt. Er will mit ihm zusammen eine neue Klinik finden und hat ihm verboten von dem Geld neuen Stoff zu kaufen. Am Wochenende kommt James Mutter Agatha zu Besuch.

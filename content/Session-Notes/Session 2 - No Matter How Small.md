@@ -18,10 +18,11 @@ Ablauf:
 * James flieht mit Hanna und Victor ruft die Polizei
 
 * James trifft wieder auf Imogen und Jamie und zusammen bringen sie Hanna in das Haus von Muller und befragen sie
-* Sie erfahren, dass Imogen an dem Abend wo das Ritual im Gartenclub durchgeführt wurde, vor Ort war und mit den anderen Mitgliedern Softdrinks von Muller getrunken hat
+* Sie erfahren, dass Hanna an dem Abend wo das Ritual im Gartenclub durchgeführt wurde, vor Ort war und mit den anderen Mitgliedern Softdrinks von Muller getrunken hat
 * Sie hat gesehen, dass die anderen Mitglieder umgekippt sind und dann wurde ihr schwarz vor Augen
 * Danach erzählt sie von einem Traum, in dem sie auf allen Vieren nach Hause gerannt ist und dort ihren Ehemann angegriffen und sich im Schlafzimmer eingesperrt hat
 * Die drei versuchen ihr klar zu machen, dass sie ein Werwolf ist, aber sie ist weiterhin traumatisiert und verstört
 * James ruft Frank an und Frank schickt Elvis zu den drei um Hanna in Sicherheit zu bringen
+* Frank ist gerade beschäftigt, weil er "auf einem Hausdach mit einem Vampir wartet bis die Sonne aufgeht"
 * Am Ende der Runde hören die PCs ein Auto vorfahren und gehen mit Hanna nach draußen, weil sie Elvis erwarten, doch stattdessen treffen sie auf Muller, der nach Hause gekommen ist
 * Es ist 00:30 Uhr am Samstag

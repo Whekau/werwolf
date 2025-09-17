@@ -6,5 +6,5 @@
 | [[Stamm]]:      | Children of Gaia                                                       |
 | [[Gaben]]:      | - Streets Tell Stories<br>- Crow’s Laughter<br>- True Fear             |
 | [[Riten]]:      | - Rage                                                                 |
-| Bonds:          | - [[Ellie Fawkes]]<br>- [[Platzhalter]]                                |
+| Bonds:          | - [[Ellie Fawkes]]<br>- [[Tom Brandon]]                                |
 | [[Waffen]]:     | - Klappmesser                                                          |

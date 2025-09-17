@@ -28,7 +28,7 @@ title: Werwolf
 			* [[Edward Clinton]]
 			* [[Ellie Fawkes]]
 			* [[Jeremy O'Connor]]
-			* [[Platzhalter]]
+			* [[Tom Brandon]]
 			* [[Tara]]
 	* [[Rickard Muller]]
 	- Werwölfe:
@@ -61,3 +61,5 @@ title: Werwolf
 * Session-Notes:
 	* [[Session 1 - No Matter How Small]]
 	* [[Session 2 - No Matter How Small]]
+	* [[Session 3 - No Matter How Small]]
+	* [[Session 3 - No Matter How Small]]

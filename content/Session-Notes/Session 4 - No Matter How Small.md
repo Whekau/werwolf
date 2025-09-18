@@ -25,4 +25,4 @@ Ablauf:
 ---
 * Jamie trifft sich mit Tom Brandon zum gemeinsamen Eishockey-Schauen
 * In der Halbzeit des Spiels ereignet sich eine seltsame Szene:
-	* Eine Frau, die danach als "Wasp Queen Karen" in den Social Media eine Welle schlägt, streitet sich mit einem Schiedsrichter und lässt einen übergroßen Wespenstachel aus ihrem Arm fahren
+	* Eine Frau, die danach als "Karen the Wasp Queen" in den Social Media eine Welle schlägt, streitet sich mit einem Schiedsrichter und lässt einen übergroßen Wespenstachel aus ihrem Arm fahren

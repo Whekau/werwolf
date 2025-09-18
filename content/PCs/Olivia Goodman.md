@@ -5,6 +5,6 @@
 | [[Vorzeichen]]: | Theurge                                               |
 | [[Stamm]]:      | Children of Gaia                                      |
 | [[Gaben]]:      | - Mother's Touch<br>- Dire Distraction<br>- True Fear |
-| [[Riten]]:      | - Binding                                             |
+| [[Riten]]:      | - Binding<br>- Shadow Passage                         |
 | Bonds:          | - [[Betsy Beckett]]<br>- [[Edward Clinton]]           |
 | [[Waffen]]:     |                                                       |

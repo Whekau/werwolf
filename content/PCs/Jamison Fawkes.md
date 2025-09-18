@@ -5,6 +5,6 @@
 | [[Vorzeichen]]: | Galliard                                                               |
 | [[Stamm]]:      | Children of Gaia                                                       |
 | [[Gaben]]:      | - Streets Tell Stories<br>- Crow’s Laughter<br>- True Fear             |
-| [[Riten]]:      | - Rage                                                                 |
+| [[Riten]]:      | - Rage<br>- Shadow Passage                                             |
 | Bonds:          | - [[Ellie Fawkes]]<br>- [[Tom Brandon]]                                |
 | [[Waffen]]:     | - Klappmesser                                                          |

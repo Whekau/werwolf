@@ -28,9 +28,9 @@ title: Werwolf
 			* [[Edward Clinton]]
 			* [[Ellie Fawkes]]
 			* [[Jeremy O'Connor]]
+			* [[Sanika]]
 			* [[Tom Brandon]]
 			* [[Tara]]
-	* [[Rickard Muller]]
 	- Werwölfe:
 		- Children of Gaia:
 			- [[Frank Carter]]
@@ -62,4 +62,4 @@ title: Werwolf
 	* [[Session 1 - No Matter How Small]]
 	* [[Session 2 - No Matter How Small]]
 	* [[Session 3 - No Matter How Small]]
-	* [[Session 3 - No Matter How Small]]
+	* [[Session 4 - No Matter How Small]]

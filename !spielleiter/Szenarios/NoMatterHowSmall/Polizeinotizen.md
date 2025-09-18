@@ -1,7 +1,7 @@
 * Vermisstenmeldung: Jacqlyn Bates
 * erstmal keine Fortschritte
-* Kampf auf der Straße vor Mullers Haus (4 Personen, 2 w, 1m, 1 großer Hund/Wolf) ?
-* 1 Std später Haus brennt, Leiche im Vorgarten, Nachbarn sehen 2m, 2w
+* Kampf auf der Straße vor Mullers Haus (4 Personen, 2 w, 2m(inklusive muller), 1 großer Hund/Wolf) ?
+* 1 Std später Haus brennt, Leiche im Vorgarten, Nachbarn sehen 2m, 2w (ohne muller)
 * Suche nach Taxi am Samstag
 * Samstag untersuchen des Ritualplatzes:
 * Ritualplatz: ausgegrabene Leichen (andere Personen als der Mörder)
@@ -14,4 +14,4 @@
 
 --> Bodhis Schwester befragen
 --> wer hat Bodhis Katze?
---> Taxi finden
+--> Taxi finden -> schrottplatz

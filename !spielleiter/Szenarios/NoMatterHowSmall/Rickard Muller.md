@@ -8,7 +8,8 @@
 * meat-child talisman
 
 **Verletzungen**:
-Solo-Boss: 2 leicht 3 mittel 3 schwer
+Solo-Boss: 2 leicht 2 mittel 2 schwer
+1 leicht 1mittel 1 schwer
 **Verteidigung**: 1W6 
 **Aktionen pro Runde**: 2 (Solo-Boss) 
 **Würfelanzahl**: 2

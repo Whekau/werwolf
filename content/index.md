@@ -59,8 +59,8 @@ title: Werwolf
 	* [[Waffen]]
 	* [[Werwolfformen]]
 * Session-Notes:
-	* [[Session 1 - No Matter How Small]]
-	* [[Session 2 - No Matter How Small]]
-	* [[Session 3 - No Matter How Small]]
-	* [[Session 4 - No Matter How Small]]
+	* [[Session 1 - The Springbrook Ripper]]
+	* [[Session 2 - The Springbrook Ripper]]
+	* [[Session 3 - The Springbrook Ripper]]
+	* [[Session 4 - The Springbrook Ripper]]
 	* [[Session 5 - Karen the Wasp Queen]]

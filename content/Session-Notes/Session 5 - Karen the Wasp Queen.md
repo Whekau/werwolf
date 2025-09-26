@@ -12,12 +12,13 @@ Ablauf:
 * Jamie schaut mit seinem besten Freund Tom Brandon ein Icehockey-Spiel und sieht in der Halbzeit wie eine Frau einen Wespenstachel aus ihrem Handgelenk wachsen lässt
 * Dieser Clip verbreitet sich rasant auf Social Media und die Frau wird als "Karen the Wasp Queen" bekannt
 ---
-* Zuerst schauen sich die PCs aber die Naperville Icehockey Arena an, in welcher der Clip entstanden ist.
+* Zuerst schauen sich die PCs die Naperville Icehockey Arena an, in welcher der Clip entstanden ist.
 * Sie betreten die Arena bei Nacht und treffen in der Umbra auf Knickerbocker, einem stolzen Geist in der Form eines Pferdes
+
 ![[knickerbocker.jpg]]
 * Knickerbocker berichtet ihnen, dass er der einzige Geist ist, der hier noch lebt seit die Arena errichtet wurde
 * Er verabscheut die Menschen in seinem Zuhause
-* Er erzählt den PCs auf die Frage nach der Frau, dass er hier schon ein paar Menschen gesehen hat, welche einen Wespengeist auf ihrem Kopf sitzen gehabt haben
+* Als die PCs nach der Frau fragen erzählt er, dass er hier schon ein paar Menschen gesehen hat, welche einen Wespengeist auf ihrem Kopf sitzen gehabt haben
 * Er nennt diese Geister des Wyrms Vaegesti und sagt, dass sie zwar keine Königin haben, aber in der Nähe wohl ein Nest sein muss
 * Zuletzt verspottet er die drei PCs und hat offensichtlich nicht viel Hoffnung in die Krieger Gaias, da er zusehen musste, wie sein Zuhause von dieser Arena verunstaltet wurde und ihm niemand geholfen hat
 ---

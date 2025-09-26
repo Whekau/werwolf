@@ -63,3 +63,4 @@ title: Werwolf
 	* [[Session 2 - No Matter How Small]]
 	* [[Session 3 - No Matter How Small]]
 	* [[Session 4 - No Matter How Small]]
+	* [[Session 5 - Karen the Wasp Queen]]

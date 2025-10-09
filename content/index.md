@@ -64,3 +64,4 @@ title: Werwolf
 	* [[Session 3 - The Springbrook Ripper]]
 	* [[Session 4 - The Springbrook Ripper]]
 	* [[Session 5 - Karen the Wasp Queen]]
+	* [[Session 6 - Karen the Wasp Queen]]

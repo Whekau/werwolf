@@ -31,6 +31,7 @@ title: Werwolf
 			* [[Sanika]]
 			* [[Tom Brandon]]
 			* [[Tara]]
+		* [[Christian Smith]]
 	- Werwölfe:
 		- Children of Gaia:
 			- [[Frank Carter]]
@@ -65,3 +66,5 @@ title: Werwolf
 	* [[Session 4 - The Springbrook Ripper]]
 	* [[Session 5 - Karen the Wasp Queen]]
 	* [[Session 6 - Karen the Wasp Queen]]
+	* [[Session 7 - Shadow Over Naperville]]
+	* [[Session 8 - Shadow Over Naperville]]
